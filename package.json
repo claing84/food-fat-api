@@ -1,16 +1,20 @@
 {
-    "name": "food-fat-api",
-    "version": "1.0.0",
-    "description": "Food fat API",
-    "main": "server.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/claing84/food-fat-api.git"
-    },
-    "author": "Chris Laing",
-    "license": "ISC"
+  "name": "food-fat-api",
+  "version": "1.0.0",
+  "description": "API to show fat grams for menu items at various restaurants",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claing84/food-fat-api.git"
+  },
+  "author": "Chris Laing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claing84/food-fat-api/issues"
+  },
+  "homepage": "https://github.com/claing84/food-fat-api#readme"
 }
