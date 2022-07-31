@@ -1,0 +1,43 @@
+{
+    "food": [{
+            "id": 0,
+            "name": "chicken sandwhich",
+            "restaurant": "Chick Fil-A",
+            "web": "https://www.chick-fil-a.com/locations/",
+            "description": "chicken breast of an unbuttered bun with lettuce and pickle",
+            "ingredients": [
+                "chicken",
+                "unbuttered bun",
+                "lettuce",
+                "pickle"
+            ],
+            "fat grams": ""
+        },
+        {
+            "id": 1,
+            "name": "chicken noodle soup",
+            "restaurant": "Chick Fil-A",
+            "web": "https://www.chick-fil-a.com/locations/",
+            "description": "cup of soup",
+            "ingredients": [
+                "chicken",
+                "chicken broth",
+                "egg noodles"
+            ],
+            "fat grams": ""
+        },
+        {
+            "id": 2,
+            "name": "fruit cup",
+            "restaurant": "Chick Fil-A",
+            "web": "https://www.chick-fil-a.com/locations/",
+            "description": "cup of fruit",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+            "fat grams": "0"
+        }
+    ]
+}

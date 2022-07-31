@@ -1,0 +1,16 @@
+{
+    "name": "food-fat-api",
+    "version": "1.0.0",
+    "description": "Food fat API",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/claing84/food-fat-api.git"
+    },
+    "author": "Chris Laing",
+    "license": "ISC"
+}
