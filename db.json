@@ -1,7 +1,7 @@
 {
     "food": [{
             "id": 0,
-            "name": "chicken sandwhich",
+            "name": "Chicken sandwhich",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -17,7 +17,7 @@
         },
         {
             "id": 1,
-            "name": "chicken noodle soup",
+            "name": "Chicken noodle soup",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -32,7 +32,7 @@
         },
         {
             "id": 2,
-            "name": "fruit cup",
+            "name": "Fruit cup",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -47,15 +47,21 @@
         },
         {
             "id": 3,
-            "name": "Salad",
+            "name": "Market salad",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
-            "description": "salad",
+            "description": "Sliced grilled chicken breast served on a fresh bed of mixed greens, topped with crumbled blue cheese and a mix of red and green apples, strawberries and blueberries. Prepared fresh daily. Served with Harvest Nut Granola and Roasted Almonds. Pairs well with Zesty Apple Cider Vinaigrette",
             "ingredients": [
-                "",
-                "",
-                ""
+                "grilled chicken breast",
+                "mixed greens",
+                "crumbled blue cheese",
+                "red apples",
+                "green apples",
+                "strawberries",
+                "bluberries",
+                "harvest nut granola",
+                "roasted almonds"
             ],
             "fat grams": "10",
             "calories": "160"
