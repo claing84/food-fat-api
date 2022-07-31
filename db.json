@@ -1,7 +1,7 @@
 {
     "food": [{
             "id": 0,
-            "name": "Chicken sandwhich",
+            "name": "Chicken Sandwhich",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -17,7 +17,7 @@
         },
         {
             "id": 1,
-            "name": "Chicken noodle soup",
+            "name": "Chicken Noodle Soup",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -32,7 +32,7 @@
         },
         {
             "id": 2,
-            "name": "Fruit cup",
+            "name": "Fruit Cup",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -47,7 +47,7 @@
         },
         {
             "id": 3,
-            "name": "Market salad",
+            "name": "Market Salad",
             "restaurant": "Chick Fil-A",
             "web": "https://www.chick-fil-a.com/menu",
             "nutrition menu": "https://www.google.com/search?q=chick-fil-a+nutrition&oq=chick-fil-a+nutrition&aqs=chrome..69i57j69i60l3.9912j0j7&sourceid=chrome&ie=UTF-8",
@@ -81,6 +81,60 @@
             ],
             "fat grams": "54",
             "calories": "350-1,110"
+        },
+        {
+            "id": 5,
+            "name": "New York Streamer",
+            "restaurant": "Firehouse Subs",
+            "web": "https://www.firehousesubs.com/",
+            "nutrition menu": "https://www.google.com/search?q=firehouse+subs+nutrition&ei=awHnYpXPIKe6qtsPxrSw6AY&ved=0ahUKEwjVsKzrlaT5AhUnnWoFHUYaDG0Q4dUDCA8&uact=5&oq=firehouse+subs+nutrition&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEc6BwgAEEcQsANKBAhBGABKBAhGGABQ4gRY4gRgsAZoAXACeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE&sclient=gws-wiz",
+            "description": "",
+            "ingredients": [
+                "corned beef brisket",
+                "pastrami",
+                "melted provolone",
+                "deli mustard",
+                "mayo",
+                "Italian dressing"
+            ],
+            "fat grams": "64",
+            "calories": "360-1,180"
+        },
+        {
+            "id": 6,
+            "name": "Hero",
+            "restaurant": "Firehouse Subs",
+            "web": "https://www.firehousesubs.com/",
+            "nutrition menu": "https://www.google.com/search?q=firehouse+subs+nutrition&ei=awHnYpXPIKe6qtsPxrSw6AY&ved=0ahUKEwjVsKzrlaT5AhUnnWoFHUYaDG0Q4dUDCA8&uact=5&oq=firehouse+subs+nutrition&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEc6BwgAEEcQsANKBAhBGABKBAhGGABQ4gRY4gRgsAZoAXACeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE&sclient=gws-wiz",
+            "description": "",
+            "ingredients": [
+                "roast beef",
+                "smoked turkey breast",
+                "virgina honey ham",
+                "melted provolone"
+            ],
+            "fat grams": "56",
+            "calories": "400-1,180"
+        },
+        {
+            "id": 7,
+            "name": "Turkey Bacon Ranch",
+            "restaurant": "Firehouse Subs",
+            "web": "https://www.firehousesubs.com/",
+            "nutrition menu": "https://www.google.com/search?q=firehouse+subs+nutrition&ei=awHnYpXPIKe6qtsPxrSw6AY&ved=0ahUKEwjVsKzrlaT5AhUnnWoFHUYaDG0Q4dUDCA8&uact=5&oq=firehouse+subs+nutrition&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEcyBAgAEEc6BwgAEEcQsANKBAhBGABKBAhGGABQ4gRY4gRgsAZoAXACeACAAQCIAQCSAQCYAQCgAQHIAQjAAQE&sclient=gws-wiz",
+            "description": "",
+            "ingredients": [
+                "smoked turkey breast",
+                "crispy bacon",
+                "melted sharp cheddar cheese",
+                "onion",
+                "lettuce",
+                "tomato",
+                "mayo",
+                "peppercorn ranch dressing"
+            ],
+            "fat grams": "56",
+            "calories": "400-1,180"
         }
     ]
 }
